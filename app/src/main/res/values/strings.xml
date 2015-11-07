@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PanicButton</string>
+    <string name="panic_button">Panic!</string>
+</resources>
